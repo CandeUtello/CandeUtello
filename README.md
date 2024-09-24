@@ -21,6 +21,7 @@ Data Analyst, este rol no se trata simplemente de trabajar con números o softwa
 </p>
    
 ---
+
 ### Conéctate conmigo:
 <a href="https://www.linkedin.com/in/candela-utello-895662218"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
