@@ -19,3 +19,12 @@ Data Analyst, este rol no se trata simplemente de trabajar con números o softwa
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter 
 </p>
+   
+---
+### Conéctate conmigo:
+<a href="https://www.linkedin.com/in/candela-utello-895662218"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
+</a>
+<a href="mailto:Candela18utello@gmail.com">
+    <img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" alt="Correo Electrónico" width="30" height="30">
+</a>
